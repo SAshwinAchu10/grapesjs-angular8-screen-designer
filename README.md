@@ -1,6 +1,4 @@
-# grapesjs-angular8-component-generator
-
-
+# grapesjs-angular8-screen-designer
 `$ cd grapesenv`
 ### Install dependencies
 
